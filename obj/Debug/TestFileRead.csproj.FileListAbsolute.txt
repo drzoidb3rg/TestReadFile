@@ -1,0 +1,6 @@
+C:\temp\TestFileRead\bin\Debug\TestFileRead.exe.config
+C:\temp\TestFileRead\bin\Debug\TestFileRead.exe
+C:\temp\TestFileRead\bin\Debug\TestFileRead.pdb
+C:\temp\TestFileRead\obj\Debug\TestFileRead.csprojResolveAssemblyReference.cache
+C:\temp\TestFileRead\obj\Debug\TestFileRead.exe
+C:\temp\TestFileRead\obj\Debug\TestFileRead.pdb
